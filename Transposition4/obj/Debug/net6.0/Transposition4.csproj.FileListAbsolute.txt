@@ -1,0 +1,15 @@
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\bin\Debug\net6.0\Transposition4.exe
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\bin\Debug\net6.0\Transposition4.deps.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\bin\Debug\net6.0\Transposition4.runtimeconfig.json
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\bin\Debug\net6.0\Transposition4.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\bin\Debug\net6.0\Transposition4.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.csproj.AssemblyReference.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.AssemblyInfoInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.AssemblyInfo.cs
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.csproj.CoreCompileInputs.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\refint\Transposition4.dll
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.pdb
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\Transposition4.genruntimeconfig.cache
+C:\Users\Bionikum\Desktop\Обучение гикбраун\Домашние задания\DZ_20_12_2022\Transposition4\obj\Debug\net6.0\ref\Transposition4.dll

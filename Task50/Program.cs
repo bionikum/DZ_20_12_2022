@@ -43,7 +43,7 @@ void ReleaseMatrix(int[,] matrix)
 }
 
 Console.Clear();
-int[,] matrix = new int[10, 10];
+int[,] matrix = new int[5, 5];
 
 InputMatrix(matrix);
 Console.WriteLine();
