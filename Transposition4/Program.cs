@@ -45,6 +45,7 @@ int[,] matrix = new int[size[0], size[1]];
 
 InputMatrix(matrix);
 Console.WriteLine();
+Console.WriteLine();
 
 
 int[,] trans = new int[size[0], size[1]];
@@ -61,7 +62,7 @@ for (int i = 0; i < matrix.GetLength(0); i++)
         trans[i, j] = matrix[matrix.GetLength(0) - 1 - i, j];
         matrix[matrix.GetLength(0) - 1 - i, j] = temp;
 
-        Console.Write($"{trans[i, j]};\t");
+        Console.Write($"{trans[i, j]}\t");
     }
     Console.WriteLine();
 }
